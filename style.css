@@ -8,7 +8,7 @@ body {
 
 
 .persona-card {
-    background: rgb(228, 187, 151);
+    background: rgb(238, 140, 54);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -40,4 +40,5 @@ img {
 
 /* Add your own colors below based on your Vibe! */
 h1 { color: #d09b51; }
-h3 { color: #924c13; border-bottom: 2px solid #ff7300; }
+h3 { color: #ffcfa8; border-bottom: 2px solid #ffcfa8; }
+
